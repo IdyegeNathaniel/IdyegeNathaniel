@@ -13,8 +13,8 @@ Hey there, I'm a frontend web developer passionate about transforming ideas into
 
 ### 📩**Let's Get Going:**
 ---
-[Email](https://idyegenathaniel@gmail.com)
-
+[Email](idyegenathaniel@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nathaniel-idyege-a39044245)
 <!--
 **IdyegeNathaniel/IdyegeNathaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
